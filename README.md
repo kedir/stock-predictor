@@ -1,5 +1,5 @@
 # About the project
-The main purpose of this project is to build a basic time series model to predict stock prices and Deploy using FastAPI to AWS EC2
+* The main purpose of this project is to build a basic time series model to predict stock prices and Build a container image for a FastAPI application
 
 ### Prerequisites
 
